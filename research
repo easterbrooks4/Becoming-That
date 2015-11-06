@@ -32,6 +32,10 @@
 	color: #00F;
 	text-decoration: none;
 }
+img {
+	width: 100%; 
+    height: auto;
+}
 </style>
 </head>
 <body>
