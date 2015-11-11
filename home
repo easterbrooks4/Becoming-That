@@ -4,13 +4,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Ongoing Project</title>
 <style type="text/css">
-.title {
-	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 18px;
-	font-style: normal;
-	line-height: normal;
-	color: #000;
-}
 .nav {
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 14px;
@@ -71,6 +64,15 @@
 	right: auto;
 	bottom: auto;
 }
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #0F0;
+}
 </style>
 </head>
 
@@ -84,7 +86,7 @@
 <p><a href="file:///system/Users/leaste/Documents/Research.html">Research</a></p>
 </div>
 <div class="home-image">
-<img src="http://andrewnormanwilson.com/UncertaintySeminarsHand.jpg">
+<img src="http://antonekonst.com/images/screen%20shot%202013-10-10%20at%2092412%20am.jpg" height="700" width="575">
 </div>
 <div class="list">
 <p>with:</p>
