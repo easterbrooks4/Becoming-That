@@ -73,6 +73,16 @@
 	font-variant: normal;
 	color: #0F0;
 }
+.image-description {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: lighter;
+	font-variant: normal;
+	text-transform: none;
+	color: #90C;
+}
 </style>
 </head>
 
@@ -87,6 +97,9 @@
 </div>
 <div class="home-image">
 <img src="http://antonekonst.com/images/screen%20shot%202013-10-10%20at%2092412%20am.jpg" height="700" width="575">
+</div>
+<div class="image-description">
+work to come by Antone Könst
 </div>
 <div class="list">
 <p>with:</p>
