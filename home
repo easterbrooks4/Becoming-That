@@ -25,23 +25,12 @@
 .organize {
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 14px;
-	font-style: normal;
 	line-height: normal;
+	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
 	color: #000;
-}
-.list p{
-	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 14px;
-	font-style: normal;
-	line-height: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	color: #000;
-	line-height:.01
 }
 .list {
 	font-family: Tahoma, Geneva, sans-serif;
@@ -82,6 +71,13 @@
 	font-variant: normal;
 	text-transform: none;
 	color: #90C;
+}	
+.contact {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: .01px;
+	color: #666;
 }
 </style>
 </head>
@@ -113,7 +109,9 @@ work to come by Antone Könst
 </div>
 <div class="organize">
 <p>Organized by Levi Easterbrooks</p>
-
+</div>
+<div class="contact">
+<p>becomingthatcontact@gmail.com</p>
 </div>
 </body>
 </html>
