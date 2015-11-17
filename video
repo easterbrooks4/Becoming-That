@@ -117,9 +117,9 @@
 
 <body>
 <div class= "nav">
-<p><a href="Ongoing Project2015.html">Home</a></p>
-<p><a href="Statement.html">Statement</a></p>
-<p><a href="Research.html">Research</a></p>
+<p><a href="../index.html">Home</a></p>
+<p><a href="../statement">Statement</a></p>
+<p><a href="../research">Research</a></p>
 </div>
 <div class="title">
 <p>Video Program</p>
